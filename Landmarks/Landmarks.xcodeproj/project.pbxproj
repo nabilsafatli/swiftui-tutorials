@@ -13,6 +13,7 @@
 		FB2B5A8A23EC576D0023F36B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB2B5A8923EC576D0023F36B /* Assets.xcassets */; };
 		FB2B5A8D23EC576D0023F36B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB2B5A8C23EC576D0023F36B /* Preview Assets.xcassets */; };
 		FB2B5A9023EC576D0023F36B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB2B5A8E23EC576D0023F36B /* LaunchScreen.storyboard */; };
+		FB2B5A9823EC5B7F0023F36B /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB2B5A9723EC5B7F0023F36B /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		FB2B5A8C23EC576D0023F36B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		FB2B5A8F23EC576D0023F36B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FB2B5A9123EC576D0023F36B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FB2B5A9723EC5B7F0023F36B /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				FB2B5A8323EC576C0023F36B /* AppDelegate.swift */,
 				FB2B5A8523EC576C0023F36B /* SceneDelegate.swift */,
+				FB2B5A9723EC5B7F0023F36B /* CircleImage.swift */,
 				FB2B5A8723EC576C0023F36B /* ContentView.swift */,
 				FB2B5A8923EC576D0023F36B /* Assets.xcassets */,
 				FB2B5A8E23EC576D0023F36B /* LaunchScreen.storyboard */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FB2B5A8423EC576C0023F36B /* AppDelegate.swift in Sources */,
+				FB2B5A9823EC5B7F0023F36B /* CircleImage.swift in Sources */,
 				FB2B5A8623EC576C0023F36B /* SceneDelegate.swift in Sources */,
 				FB2B5A8823EC576C0023F36B /* ContentView.swift in Sources */,
 			);
