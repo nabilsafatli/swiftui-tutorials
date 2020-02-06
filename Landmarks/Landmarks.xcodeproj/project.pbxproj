@@ -14,6 +14,7 @@
 		FB2B5A8D23EC576D0023F36B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB2B5A8C23EC576D0023F36B /* Preview Assets.xcassets */; };
 		FB2B5A9023EC576D0023F36B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB2B5A8E23EC576D0023F36B /* LaunchScreen.storyboard */; };
 		FB2B5A9823EC5B7F0023F36B /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB2B5A9723EC5B7F0023F36B /* CircleImage.swift */; };
+		FB2B5A9A23EC5F350023F36B /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB2B5A9923EC5F350023F36B /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		FB2B5A8F23EC576D0023F36B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FB2B5A9123EC576D0023F36B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FB2B5A9723EC5B7F0023F36B /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		FB2B5A9923EC5F350023F36B /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				FB2B5A8E23EC576D0023F36B /* LaunchScreen.storyboard */,
 				FB2B5A9123EC576D0023F36B /* Info.plist */,
 				FB2B5A8B23EC576D0023F36B /* Preview Content */,
+				FB2B5A9923EC5F350023F36B /* MapView.swift */,
 			);
 			path = Landmarks;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			files = (
 				FB2B5A8423EC576C0023F36B /* AppDelegate.swift in Sources */,
 				FB2B5A9823EC5B7F0023F36B /* CircleImage.swift in Sources */,
+				FB2B5A9A23EC5F350023F36B /* MapView.swift in Sources */,
 				FB2B5A8623EC576C0023F36B /* SceneDelegate.swift in Sources */,
 				FB2B5A8823EC576C0023F36B /* ContentView.swift in Sources */,
 			);
